@@ -1,3 +1,3 @@
 # Mesilane
-Mesilane is a mod that adds a strange dimension to Minecraft.
-Currently available for Forge 1.16.5, past versions available on Forge 1.14.4 & Forge 1.15.2.
+Mesilane is a mod that adds a strange new dimension to Minecraft.
+Currently available for Forge 1.16.5, previous versions available for Forge 1.14.4 & 1.15.2.
